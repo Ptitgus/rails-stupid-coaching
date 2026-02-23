@@ -8,3 +8,25 @@
  *
  * Consider organizing styles into separate files for maintainability.
  */
+
+ form {
+  width: 500px;
+ }
+
+ div {
+  margin: 20px;
+ }
+
+  #Question {
+  border-left: 4px solid gray;
+ }
+
+
+ #Reponse {
+  background-color: rgb(253, 255, 221);
+  border-left: 4px solid gray;
+ }
+
+ p {
+  margin-left: 20px;
+ }
